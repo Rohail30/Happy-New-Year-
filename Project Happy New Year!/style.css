@@ -361,7 +361,7 @@ button {
     border: 3px solid #fff;
     border-radius: 50px;
     padding: 0.8rem 2rem;
-    font: 0.6rem "Margarine", sans-serif;
+    font: 1rem "Margarine", sans-serif;
     outline: none;
     cursor: pointer;
     position: relative;
