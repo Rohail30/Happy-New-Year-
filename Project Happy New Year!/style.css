@@ -71,6 +71,7 @@ button {
 	position: relative;
 	transition: transform 0.1s linear, box-shadow 0.1s linear;
 	z-index: 10;
+	user-select: none;
 }
 
 button:active {
@@ -348,5 +349,12 @@ button {
 
   .explore-button {
       font-size: 0.8em;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  video{
+    width:320px;
+    height:250px;
   }
 }
