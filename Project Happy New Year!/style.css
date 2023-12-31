@@ -346,7 +346,7 @@ button {
 
 @media only screen and (max-width: 600px) {
   .message {
-      font-size: 2.5em;
+      font-size: 2.2em;
       margin-top: 10vh;
       margin-bottom: 18vh;
   }
